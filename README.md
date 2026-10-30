@@ -31,7 +31,7 @@ This repository contains the public Stirk AI website: a responsive landing page,
 - System, light, and dark theme modes with saved preference.
 - Animated typewriter messaging in the hero section.
 - Search-friendly metadata, Open Graph previews, Twitter cards, and JSON-LD.
-- Links to Kirn, Kirnly, Pets, Kirsh, KirnOS, Kirn documentation, and the creator.
+- Links to Kirn, Kirnly, Pats, Kirsh, KirnOS, Kirn documentation, and the creator.
 - Accessibility, contribution, security, conduct, ownership, and license documentation.
 
 ## Related projects
@@ -40,8 +40,8 @@ This repository contains the public Stirk AI website: a responsive landing page,
 - [Kirn programming language](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Kirnly editor](https://kirnly.github.io/)
-- [Pets registry](https://pets-registry.github.io/)
-- [Pets contribution guide](https://pets-registry.github.io/pets/)
+- [Pats registry](https://pats-registry.github.io/)
+- [Pats contribution guide](https://pats-registry.github.io/pats/)
 - [Kirsh terminal](https://kirsh-shell.github.io/)
 - [KirnOS](https://kirnos-kernel.github.io/)
 - [Creator — RK Riad Khan](https://rkriad585.github.io/)
